@@ -1,4 +1,7 @@
-<!-- 🌌 Modern & Animated GitHub Profile README by ChatGPT -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amirthegreat1/amirthegreat1/main/banner.png" alt="Amirhossein Zahmatkeshani | Back-End Developer Banner" width="100%" />
+</p>
 
 <h1 align="center">👋 Hi, I'm Amirhossein Zahmatkeshani</h1>
 <h3 align="center">💻 Junior Back-End Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</h3>
@@ -12,17 +15,19 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Back-End+Developer;Python+%7C+FastAPI+%7C+Django;PHP+%7C+MySQL;Building+Clean+and+Scalable+Web+Apps;Always+Learning+%F0%9F%93%9A" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Back-End+Developer;Python+%7C+FastAPI+%7C+Django;Node.js+%7C+Laravel+%7C+PHP;Building+Scalable+and+Secure+Web+Apps;Always+Learning+%F0%9F%93%9A" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🧠 About Me  
-> Passionate about backend development and system logic, I love designing efficient APIs and managing databases that make web applications reliable and scalable.
+
+> I'm a passionate **Back-End Developer** focused on building efficient, reliable, and scalable web applications.  
+> I enjoy writing clean, maintainable code and learning new technologies that make development faster and smarter.
 
 - 🎯 Focused on **Back-End Development**
-- 🧩 Experienced in **database design**, **debugging**, and **deployment**
-- 📚 Constantly learning **FastAPI**, **Django**, and **Node.js**
+- 🧩 Skilled in **database design**, **API architecture**, and **debugging**
+- 📚 Currently exploring **FastAPI**, **Node.js**, and **PostgreSQL**
 - 🌍 Based in **Shiraz, Iran**
 
 ---
@@ -30,7 +35,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,php,mysql,js,html,css,git,github,vscode,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,django,nodejs,php,laravel,mysql,postgresql,mongodb&perline=6" />
 </p>
 
 ---
@@ -38,7 +43,7 @@
 ## 🚀 Featured Projects  
 
 ### 🧾 [Certificate Generator](https://github.com/amirthegreat1/Certificate-Generator)
-> 🖥️ A PHP-based web app that generates and manages digital certificates.  
+> 🖥️ A PHP & MySQL-based web app that dynamically generates certificates.  
 - 🗃️ Stores all records in an SQL database  
 - 📤 Admin can export data as CSV  
 - 🧠 Dynamically places user info onto a certificate template  
@@ -46,10 +51,10 @@
 ---
 
 ### 📊 [Subscription Tracker](https://github.com/amirthegreat1/SubscriptionTracker-NodeJS)
-> 🔔 A Node.js app for tracking online subscriptions and renewal dates.  
-- 📅 Tracks multiple subscriptions across services  
-- ⚙️ Built with modular backend structure  
-- 📢 Sends notifications for expiring subscriptions  
+> 🔔 A Node.js app that helps users manage and track online subscriptions.  
+- 📅 Keeps track of all your subscriptions  
+- ⚙️ Backend built with modular and scalable structure  
+- 📢 Sends notifications before renewals  
 
 ---
 
@@ -74,10 +79,8 @@
 
   - 📍 **Location:** Shiraz, Fars, Iran  
   - 📅 **Born:** August 15, 2002  
-  - 💬 **Languages:**  
-    - English (Fluent)  
-    - Persian (Native)  
-  - ⚡ **Fun Fact:** I enjoy debugging complex backend issues more than writing new code 😄
+  - 💬 **Languages:** English (Fluent), Persian (Native)  
+  - ⚡ **Fun Fact:** I love debugging complex backend issues more than writing new code 😄
 </details>
 
 ---
