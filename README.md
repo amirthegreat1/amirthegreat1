@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amirthegreat1/amirthegreat1/main/banner.png" alt="Amirhossein Zahmatkeshani | Back-End Developer Banner" width="100%" />
-</p>
 
 <h1 align="center">👋 Hi, I'm Amirhossein Zahmatkeshani</h1>
 <h3 align="center">💻 Junior Back-End Developer | 🌐 Web Enthusiast | 🚀 Lifelong Learner</h3>
