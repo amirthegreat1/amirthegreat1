@@ -102,6 +102,3 @@
   <a href="https://github.com/amirthegreat1"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
-
-<h3 align="center">⭐ "Code. Debug. Learn. Repeat." ⭐</h3>
