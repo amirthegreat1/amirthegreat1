@@ -19,7 +19,7 @@
 
 ## 🧠 About Me  
 
-> I'm a passionate **Back-End Developer** focused on building efficient, reliable, and scalable web applications.  
+> I'm a  **Back-End Developer** focused on building efficient, reliable, and scalable web applications.  
 > I enjoy writing clean, maintainable code and learning new technologies that make development faster and smarter.
 
 - 🎯 Focused on **Back-End Development**
